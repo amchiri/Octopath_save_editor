@@ -1,0 +1,3 @@
+# Dépendances pour l'éditeur de sauvegarde Octopath Traveler 2
+# Aucune dépendance externe nécessaire pour l'instant
+# Utilise uniquement les bibliothèques standard Python

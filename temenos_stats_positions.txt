@@ -1,0 +1,4 @@
+# Positions des stats de Temenos dans SaveData9.sav
+
+HP_current      = 0x0008E4D4  # offset    +0 depuis HP
+SP_current      = 0x0008E4FB  # offset   +39 depuis HP
