@@ -160,14 +160,14 @@ Grâce à l'analyse, nous avons identifié les emplacements suivants:
 - [x] Localiser l'expérience
 - [x] Modifier HP/MP/Stats bonus
 - [x] Modifier EXP
-- [x] **Modifier la progression de l'histoire (chapitres)** ⭐ NOUVEAU!
+- [x] **Modifier la progression de l'histoire (chapitres)** WIP
 - [x] Système de backup automatique
 - [x] Interface interactive
 - [x] Recherche et remplacement de valeurs
 - [x] Analyse des IDs de chapitres complétés
 
 ### 🚧 En Développement
-- [x] Modification de la progression (chapitres principaux) - **FONCTIONNEL**
+- [x] Modification de la progression (chapitres principaux) - WIP
 - [ ] Modification de l'inventaire (items)
 - [ ] Modification des jobs/classes
 - [ ] Modification des compétences
